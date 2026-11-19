@@ -1,4 +1,4 @@
-# 🧡 Keep
+#  Keep
 
 > Controle a validade dos alimentos da sua despensa, receba alertas antes de vencer, aproveite o que você já tem em receitas e reduza o desperdício.
 
