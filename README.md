@@ -2,29 +2,21 @@
 
 > Controle a validade dos alimentos da sua despensa, receba alertas antes de vencer, aproveite o que você já tem em receitas e reduza o desperdício.
 
-![Versão](https://img.shields.io/badge/versão-1.5.0-FF7A1A)
-![Expo SDK](https://img.shields.io/badge/Expo%20SDK-58-000020?logo=expo)
-![React Native](https://img.shields.io/badge/React%20Native-0.88-61DAFB?logo=react&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-backend-3ECF8E?logo=supabase&logoColor=white)
+
 
 **Keep** é um aplicativo mobile (Android e iOS) feito com **React Native + Expo** e **Supabase**. Ele ajuda pessoas e pequenos comércios a saber o que está na despensa, o que está perto de vencer e quanto dinheiro se perde com produtos descartados.
 
----
 
-## 📑 Sumário
+##Autores
+- Lucas Duarte de Carvalho – Desenvolvedor Mobile/ Desktop e DPO; 
 
-- [Funcionalidades](#-funcionalidades)
-- [Planos](#-planos)
-- [Tecnologias](#-tecnologias)
-- [Estrutura do projeto](#-estrutura-do-projeto)
-- [Como rodar](#-como-rodar)
-- [Configuração do Supabase](#-configuração-do-supabase)
-- [Notificações](#-notificações)
-- [Roteiro de testes](#-roteiro-de-testes)
-- [Personalização](#-personalização)
-- [Limitações conhecidas](#-limitações-conhecidas)
-- [Histórico de versões](#-histórico-de-versões)
+- Pedro Henrique de Lima Mendes – Documentação e DPO; 
 
+- Pietro Fernando Arruda Silvestre – Designer e UX/UI Dev; 
+
+- Rafael Fonseca Xavier – Desenvolvedor Mobile/ Desktop e UX/UI Dev; 
+
+- Raphaela Lima Costa – Documentação e Designer;
 ---
 
 ## ✨ Funcionalidades
